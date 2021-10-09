@@ -2,6 +2,11 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import config from '../portfolio.json'
 
-const layout = window.location.pathname.indexOf('/l/') !== -1 ? window.location.pathname.substr(3) : 'default'
+let layout = 'default'
+const uri = window.location.search.substring(1); 
+const params = new URLSearchParams(uri);
+if (params.has('l')) {
+    layout = params.get('l');
+}
 createApp(App).provide('$config', config).provide('$layout', layout).mount('#app')
 
