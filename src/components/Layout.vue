@@ -15,7 +15,7 @@
                         <template v-if="$layout == 'default'">
                             <div class="row">
                                 <div class="header-buttons col-md-10 col-md-offset-1">
-                                    <a href="resume.png" target="_blank" class="btn btn-default btn-top-resume"><i class="fa fa-download"></i><span class="btn-hide-text">Download my resume</span></a>
+                                    <a href="resume.pdf" target="_blank" class="btn btn-default btn-top-resume"><i class="fa fa-download"></i><span class="btn-hide-text">Download my resume</span></a>
                                     <a :href="'mailto:' + email" target="_blank" class="btn btn-default btn-top-message"><i class="fa fa-envelope-o"></i><span class="btn-hide-text">Send me a message</span></a>
                                 </div>
                             </div>
