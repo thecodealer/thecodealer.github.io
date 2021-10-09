@@ -1,0 +1,168 @@
+{
+    "profile": {
+        "full_name": "Isa Frimpong",
+        "email": "thecodealer@gmail.com",
+        "phone_number": "(+233) 243722297",
+        "location": "Accra, Ghana",
+        "social_media": {
+            "linkedin": "mistabiggx",
+            "twitter": "thecodealer",
+            "github": "thecodealer"
+        },
+        "career_objectives": "To be able to work for a globally competitive, encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best software engineer possible.",
+        "personal_statement": "I am a highly competent software developer with over eight (8) years of experience developing a wide range of web and mobile solutions for a range of clients. I have proven expertise in building sophisticated, robust, secure, and scalable web and mobile applications. I have a thorough understanding of the software project lifecycle and I am very capable at all aspects of development from project planning to requirements gathering through to writing and testing code, creating documentation and providing technical support. I have excellent interpersonal and communication skills, which helps me thrive well when working with or leading teams."
+    },
+    "education": [
+        {
+            "certificate": "Bachelor's Degree",
+            "programme": "BSc. Actuarial Science",
+            "school": "Kwame Nkrumah University of Science & Technology",
+            "location": "Kumasi, Ghana",
+            "period": "2007 - 2011"
+        }
+    ],
+    "experience": [
+        {
+            "company_name": "Andela/Catalyst Software",
+            "company_location": "New York, USA (Remote)",
+            "company_website": "www.andela.com / www.catalyst.io",
+            "job_title": "Senior Software Engineer",
+            "period_from": "April, 2021",
+            "period_to": "",
+            "highlights": [
+            ],
+            "stack": ["Vue.js", "Jest", "Salesforce"]
+        },
+        {
+            "company_name": "expressPay Ghana Ltd",
+            "company_location": "Accra, Ghana",
+            "company_website": "www.expresspaygh.com",
+            "job_title": "Senior Software Engineer",
+            "period_from": "June, 2020",
+            "period_to": "April, 2021",
+            "highlights": [
+                "Planned and implemented the Dynamic Invoice and its API for receiving payments through a sharable link/URL by merchants.",
+                "Automated the Merchant Service Reconciliation process for identifying and reporting discrepancies in transactions, by comparing ExpressPay’s records with records provided by service providers.",
+                "Provided technical support for merchants integrating APIs.",
+                "Developed open-source plugins for easy integration of the payment APIs into popular e-commerce platforms.",
+                "Handled the hiring and onboarding process for engineers."
+            ],
+            "stack": ["Nginx", "Redis", "MySQL", "Git", "Beanstalk", "PHP", "PHPUnit", "Jest", "Vue.js", "Docker", "Laravel"]
+        },
+        {
+            "company_name": "Prexition Software Limited",
+            "company_location": "Accra, Ghana",
+            "company_website": "www.prexition.com",
+            "job_title": "Lead Software Developer",
+            "period_from": "Feb, 2017",
+            "period_to": "April, 2020",
+            "highlights": [
+                "Leading, managing and collaborating with a team of 6 software developers with various levels of experience to deliver high quality solutions for various clients, both locally and internationally.",
+                "Leading daily stand-up to review, brainstorm and plan existing and upcoming projects for the previous day and the day ahead.",
+                "Reviewing code written by members of the team to ensure they conform with set standards.",
+                "Planning and writing technical specifications for upcoming projects.",
+                "Performing quality assurance testing to ensure each solution is fit for the market."
+            ],
+            "stack": ["PHP", "MySQL", "Drupal", "Laravel", "MongoDB", "Node Js", "Vue Js", "Redis", "Elasticsearch", "Google Cloud", "AWS", "Nginx", "Puppeteer"]
+        },
+        {
+            "company_name": "Connex Software Limited",
+            "company_location": "United Kingdom",
+            "company_website": "www.campaignconnex.com",
+            "job_title": "Lead Web Developer (Part-time, Remote)",
+            "period_from": "March, 2016",
+            "period_to": "",
+            "highlights": [
+                "Frontend and backend development using Wordpress, CakePHP, Vue.js, Angular JS, MongoDB.",
+                "Planning and project management",
+                "Code maintenance",
+                "System/server administration",
+                "Technical support"
+            ],
+            "stack": ["PHP", "MySQL", "Wordpress", "CakePHP", "Laravel", "MongoDB", "Google Cloud", "Vue Js", "Angular Js", "Redis", "Beanstalk", "PhantomJs", "Rackspace"]
+        },
+        {
+            "company_name": "Codejitsu",
+            "company_location": "Canada",
+            "company_website": "www.codejitsu.ca",
+            "job_title": "Web Developer (Part-time, Remote)",
+            "period_from": "June, 2017",
+            "period_to": "November, 2017",
+            "highlights": [
+                "Mobile app development using Cordova/Phonegap, Ionic and AngularJs",
+                "Frontend development based on PSD designs made by the Creatives Department with pixel perfection, animation/transition implementation, and responsive design",
+                "Backend development using Wordpress, Laravel, Drupal and PHP",
+                "Software testing and bug fixing",
+                "Collaborated, implemented and executed several high-quality solutions for clients across Canada, USA, and Europe"
+            ],
+            "stack": ["Puppeteer", "MySQL", "Jest", "Vue.js", "Drupal", "PHP", "MongoDB", "Laravel", "Wordpress"]
+        },
+        {
+            "company_name": "Nudge Digital Ltd, UK",
+            "company_location": "Accra Office, Ghana",
+            "company_website": "www.nudgedigital.co.uk",
+            "job_title": "Software Developer",
+            "period_from": "April, 2015",
+            "period_to": "March, 2016",
+            "highlights": [
+                "Web development (using Drupal, Wordpress, and AngularJS)",
+                "Mobile application development (using Cordova/Phonegap, AngularJS, Ionic Framwork, Framework7, jQuery, HTML5)",
+                "Project planning (preparing technical specifications, breaking down project into sub tasks and estimating time for each task).",
+                "Web design implementation (PSD to HTML)",
+                "Quality assurance testing, reporting, and fixing",
+                "Website accessbility testing, reporting, and fixing",
+                "Penetration testing, reporting, and fixing",
+                "Digital marketing campaigns (using MailChimp and Sendgrid)"
+            ],
+            "stack": ["Drupal", "Wordpress", "inVision", "Photoshop", "PHPUnit", "Symfony", "Apache Solr"]
+        },
+        {
+            "company_name": "",
+            "company_location": "",
+            "company_website": "",
+            "job_title": "Software Developer (Freelance, Remote)",
+            "period_from": "October, 2011",
+            "period_to": "February, 2017",
+            "highlights": [
+                "Payment gateway integration",
+                "Plugin/module development for WHMCS, Wordpress, Drupal",
+                "Website development",
+                "Web scrapping",
+                "Bug fixes",
+                "Digital marketing",
+                "Search engine optimization"
+            ],
+            "stack": []
+        },
+        {
+            "company_name": "iHost Web Solutions",
+            "company_location": "Accra, Ghana",
+            "company_website": "www.ihostghana.com",
+            "job_title": "Web Developer/Administrator (Part-time)",
+            "period_from": "January, 2009",
+            "period_to": "June, 2017",
+            "highlights": [
+                "Designing/developing websites and web applications for clients",
+                "Maintaining websites for clients",
+                "Registering new domain names and renewing existing ones when needed",
+                "Assisting web hosting clients by way of providing support",
+                "Engaging in direct sales for new web products developed by the firm",
+                "Online marketing/advertising for clients",
+                "Installing, configuring and administering linux server systems, particularly for web/apache, mail (SMTP, POP, IMAP), DNS/BIND, and database/mysql servers)",
+                "Implementing linux server security using IP tables and firewalls",
+                "Investigating and finding security breach and solving them"
+            ],
+            "stack": []
+        }
+    ],
+    "other": [
+        {
+            "title": "Personal Qualities",
+            "html": ""
+        },
+        {
+            "title": "Interests",
+            "html": "" 
+        }
+    ]
+}
