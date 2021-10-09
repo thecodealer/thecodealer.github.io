@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,700');
 @import url('assets/vendor/bootstrap/css/bootstrap.min.css');
 @import url('assets/vendor/font-awesome/css/font-awesome.min.css');
 @import url('assets/css/styles.css');
